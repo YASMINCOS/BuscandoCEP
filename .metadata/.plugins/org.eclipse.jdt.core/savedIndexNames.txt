@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\tiyas\Documents\Dev\DesafiosServico\.metadata\.plugins\org.eclipse.jdt.core
+620359629.index
+969968605.index
+1768491617.index
+1067094681.index
+204434604.index
+1865797976.index
+3056736265.index
